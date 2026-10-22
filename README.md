@@ -1,1 +1,5 @@
-# Compete-hub
+<<<<<<< HEAD
+CompeteHub
+=======
+Compete-hub
+>>>>>>> ...
